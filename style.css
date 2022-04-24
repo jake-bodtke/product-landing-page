@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #1f2937;
+    color: white;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: right;
+}
